@@ -1,5 +1,5 @@
 {
-    "name": "phergie/phergie-irc-bot-react",
+    "name": "jeffreyroberts/phergie-irc-bot-react",
     "description": "IRC bot built on React",
     "keywords": [ "irc", "bot", "react" ],
     "license": "BSD-2-Clause",
