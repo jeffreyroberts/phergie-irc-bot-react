@@ -11,7 +11,7 @@
     },
     "require": {
         "php": ">=5.6.0",
-        "jeffreyroberts/phergie-irc-client-react": "~3.1",
+        "jeffreyroberts/phergie-irc-client-react": "dev-master",
         "phergie/phergie-irc-connection": "~2.0",
         "phergie/phergie-irc-event": "~1.0",
         "evenement/evenement": "^3.0 || ^2.0",
