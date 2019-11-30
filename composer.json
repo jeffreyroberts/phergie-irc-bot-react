@@ -31,6 +31,7 @@
             "Phergie\\Irc\\Tests\\Bot\\React\\": "tests"
         }
     },
+    "minimum-stability": "dev",
     "bin": [
         "bin/phergie"
     ]
